@@ -1,5 +1,5 @@
 # Courses App
-This is my first Web app created using react js,spring rest and JDBC(with mySQL)
+This is my first Web app created using React js,Java-Spring rest API and JDBC(with mySQL)
 
 See screenshots to get overview about app
 
