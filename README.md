@@ -5,4 +5,4 @@ See screenshots to get overview about app
 
 Thanks!
 
-![alt text](https://github.com/Sanketgolar/Courses-App-REACT-JS-/img.png?raw=true)
+![alt text](https://github.com/Sanketgolar/Courses-App-REACT-JS-/blob/main/img.png?raw=true)
